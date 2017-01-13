@@ -1,0 +1,10 @@
+[package]
+name = "soldat"
+version = "0.1.0"
+authors = ["Derek Kastner <dkastner@gmail.com>"]
+
+[dependencies]
+env_logger = "*"
+glium = "0.16.0"
+glutin = "*"
+log = "*"
